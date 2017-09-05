@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TheMovieDB</string>
+    <string name="tvshowlist.error">Unable to obtain information %s</string>
+    <string name="tv_popular_type">Popular tv shows</string>
+    <string name="title_activity_tvshow_details">TVShowDetailsActivity</string>
+    <string name="general_text">General</string>
+    <string name="popularity_text">Popularity:</string>
+    <string name="user_score_text">User Score</string>
+    <string name="tvshowdetails.menu.action.list">List of popular tv shows</string>
+    <string name="menu.action.out">Exit</string>
+    <string name="tvshowdetails_titletoolbar">Details</string>
+    <string name="credits_title">Top Billed Cast</string>
+</resources>
