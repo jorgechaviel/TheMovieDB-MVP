@@ -1,4 +1,4 @@
-TheMovieDB-MVP
+# TheMovieDB-MVP
 
 Two-screen android application showing a listing of TMDB's most popular TV shows (themoviedb.org is a free and open database with millions of data related to the world of cinema). This application is written in Model-view-presenter (MVP) Architectural Pattern.
 
